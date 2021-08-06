@@ -1,5 +1,6 @@
 # Internet-connection-app
-# Nick Zalewski
+
+Nick Zalewski
 
 Plans for Development
 1. Create 2 apps using C# in Visual Studio
