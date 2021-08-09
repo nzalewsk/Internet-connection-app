@@ -1,0 +1,11 @@
+N:\TCP_UDP_COM\IP_Server\IP_Server\bin\Debug\IP_Server.exe.config
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.csproj.AssemblyReference.cache
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.Form1.resources
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.Properties.Resources.resources
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.csproj.GenerateResource.cache
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.csproj.CoreCompileInputs.cache
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\bin\Debug\IP_Server.exe.config
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\bin\Debug\IP_Server.exe
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\bin\Debug\IP_Server.pdb
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.exe
+D:\Studica Interview\TCP_UDP_COM\IP_Server\IP_Server\obj\Debug\IP_Server.pdb
